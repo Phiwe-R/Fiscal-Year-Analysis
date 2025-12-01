@@ -19,7 +19,7 @@ AI-powered chatbot that analyzes financial PDFs (10-K filings) and provides insi
 1. **Open Notebook in Colab**  
    - Make sure PDFs are in the `RAG_Files/` folder.
 2. **Use Your Own Data Path**
-   - If you have the downloaded PDF file stored locally (not on Google Drive), you just need to make sure your data path points to the folder where the PDF is.
+   - If you have the downloaded folder stored locally (not on Google Drive), you just need to make sure your DATA PATH variable points to the folder where the PDF is.
 2. **Add Your Mistral API Key**  
    - Create a [Mistral API key](https://www.mistral.ai/)  
    - Add it to **Colab Secrets** and give it a secret name and allow notebook access using the toggle button.

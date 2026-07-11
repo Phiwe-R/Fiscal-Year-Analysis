@@ -1,10 +1,10 @@
-# 📊 Fiscal-Year-Analysis RAG Chatbot
+#  Fiscal-Year-Analysis RAG Chatbot
 
 AI-powered chatbot that analyzes financial PDFs (10-K filings) and provides insights using a **Retrieval-Augmented Generation (RAG) pipeline**.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Extracts and cleans financial data from multiple companies  
 - Performs basic financial analysis: growth rates, profitability, ratios  
@@ -14,7 +14,7 @@ AI-powered chatbot that analyzes financial PDFs (10-K filings) and provides insi
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 1. **Save documents on your Google Drive and Open Notebook in Colab**
    - Make sure the DATA_PATH variable in the notebook points to the RAG_Files folder from Google Drive  path where **analysis_doc** PDF is located.
    - copy the path of the folder and assign it to DATA_PATH
